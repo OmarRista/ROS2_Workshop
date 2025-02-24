@@ -1,5 +1,10 @@
 # ROS2_Workshop
 
+## Introduction to ROS2 Workshop
+
+Welcome to the ROS2 Workshop! This workshop is designed to introduce you to the fundamentals of ROS2 (Robot Operating System 2), a set of software libraries and tools that help you build robot applications. Throughout this workshop, you will learn how to create and manage nodes, work with topics and services, and develop your own robotic applications using ROS2.
+
+
 ## Karam Malek Cheikh Yassin
 Hello
 

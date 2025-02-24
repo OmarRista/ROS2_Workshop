@@ -51,11 +51,13 @@ With these basics, you are ready to start using Git for version control in your 
 Hello
 
 ## Yahya Nail Alasmar 
+EEE is the best
+
 
 ## Yousef Amr
 
 ## Usama Habib
-
+Time for Lunch..
 ## Hagar Hossam
 
 ## Salsabil 
@@ -68,8 +70,8 @@ ya mer7aba
 
 ## Bakynam
 I want to eat 
-## Hossam Mohamed Mohamed Gad
-
+## Hossam Mohamed Mohamed Gad 
+Hello everyone
 ## Omar Mohammed Abdelhay
 
 ## Karim Abdelhakim Zaki

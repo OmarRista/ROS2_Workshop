@@ -49,17 +49,17 @@ With these basics, you are ready to start using Git for version control in your 
 
 ## Karam Malek Cheikh Yassin
 Hello
-
+new update
 ## Yahya Nail Alasmar 
 EEE is the best
 
 
 ## Yousef Amr
-
+ 
 ## Usama Habib
 Time for Lunch..
 ## Hagar Hossam
-
+VS Code Edit ,,
 ## Salsabil 
 edit again :3 
 
@@ -67,6 +67,7 @@ edit again :3
 
 ## Mohammed M. Odeh
 ya mer7aba
+trying to sync again
 
 ## Bakynam
 I want to eat 
@@ -77,7 +78,9 @@ Hello everyone
 Hello
 
 ## Karim Abdelhakim Zaki
+   comment
 
 ## Omar Mohamed M. Gad
 hello world,
 ## Akram Mohamed Zaroug Eltayeb
+Hi -__-

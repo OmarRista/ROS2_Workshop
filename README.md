@@ -9,7 +9,7 @@ Hello
 
 ## Usama Habib
 
-## Hagar Hossam
+## Hager
 
 ## Salsabil 
 edit again :3 
@@ -23,7 +23,7 @@ ya mer7aba
 I want to eat 
 ## Hossam
 
-## Omar Mohammed Abdelhay
+## Omar Mohamed Abdelhay
 
 ## Karim Abdelhakim Zaki
 
